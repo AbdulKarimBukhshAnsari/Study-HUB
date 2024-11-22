@@ -1,0 +1,85 @@
+E:\Hafsa\NED\RemindersStudyHub\bin\Debug\net8.0-windows\RemindersStudyHub.exe
+E:\Hafsa\NED\RemindersStudyHub\bin\Debug\net8.0-windows\RemindersStudyHub.deps.json
+E:\Hafsa\NED\RemindersStudyHub\bin\Debug\net8.0-windows\RemindersStudyHub.runtimeconfig.json
+E:\Hafsa\NED\RemindersStudyHub\bin\Debug\net8.0-windows\RemindersStudyHub.dll
+E:\Hafsa\NED\RemindersStudyHub\bin\Debug\net8.0-windows\RemindersStudyHub.pdb
+E:\Hafsa\NED\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.SearchPage.resources
+E:\Hafsa\NED\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.StartPage.resources
+E:\Hafsa\NED\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.csproj.GenerateResource.cache
+E:\Hafsa\NED\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hafsa\NED\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.AssemblyInfoInputs.cache
+E:\Hafsa\NED\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.AssemblyInfo.cs
+E:\Hafsa\NED\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.csproj.CoreCompileInputs.cache
+E:\Hafsa\NED\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.dll
+E:\Hafsa\NED\RemindersStudyHub\obj\Debug\net8.0-windows\refint\RemindersStudyHub.dll
+E:\Hafsa\NED\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.pdb
+E:\Hafsa\NED\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.genruntimeconfig.cache
+E:\Hafsa\NED\RemindersStudyHub\obj\Debug\net8.0-windows\ref\RemindersStudyHub.dll
+E:\Hafsa\NED\RemindersStudyHub\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+E:\Hafsa\NED\RemindersStudyHub\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\Hafsa\NED\RemindersStudyHub\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\Hafsa\NED\RemindersStudyHub\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+E:\Hafsa\NED\RemindersStudyHub\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+E:\Hafsa\NED\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.csproj.AssemblyReference.cache
+E:\Hafsa\NED\RemindersStudyHub\obj\Debug\net8.0-windows\Reminder.1C1C6C6D.Up2Date
+E:\Hafsa\NED\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.AdditReminder.resources
+E:\Hafsa\NED\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.ViewPage.resources
+C:\Users\PC\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\RemindersStudyHub\RemindersStudyHub\bin\Debug\net8.0-windows\RemindersStudyHub.exe
+C:\Users\PC\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\RemindersStudyHub\RemindersStudyHub\bin\Debug\net8.0-windows\RemindersStudyHub.deps.json
+C:\Users\PC\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\RemindersStudyHub\RemindersStudyHub\bin\Debug\net8.0-windows\RemindersStudyHub.runtimeconfig.json
+C:\Users\PC\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\RemindersStudyHub\RemindersStudyHub\bin\Debug\net8.0-windows\RemindersStudyHub.dll
+C:\Users\PC\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\RemindersStudyHub\RemindersStudyHub\bin\Debug\net8.0-windows\RemindersStudyHub.pdb
+C:\Users\PC\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\RemindersStudyHub\RemindersStudyHub\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\PC\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\RemindersStudyHub\RemindersStudyHub\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\PC\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\RemindersStudyHub\RemindersStudyHub\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\PC\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\RemindersStudyHub\RemindersStudyHub\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\PC\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\RemindersStudyHub\RemindersStudyHub\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\PC\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.AdditReminder.resources
+C:\Users\PC\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.SearchPage.resources
+C:\Users\PC\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.StartPage.resources
+C:\Users\PC\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.ViewPage.resources
+C:\Users\PC\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.AssemblyInfo.cs
+C:\Users\PC\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\Reminder.1C1C6C6D.Up2Date
+C:\Users\PC\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.dll
+C:\Users\PC\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\refint\RemindersStudyHub.dll
+C:\Users\PC\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.pdb
+C:\Users\PC\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.genruntimeconfig.cache
+C:\Users\PC\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\ref\RemindersStudyHub.dll
+C:\Users\PC\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.HomePage.resources
+C:\Users\PC\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.Notepad.resources
+C:\Users\PC\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.ToDo.resources
+E:\Hafsa\NED\rem\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.csproj.AssemblyReference.cache
+E:\Hafsa\NED\rem\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.dll
+E:\Hafsa\NED\rem\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\refint\RemindersStudyHub.dll
+E:\Hafsa\NED\rem\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.pdb
+E:\Hafsa\NED\rem\RemindersStudyHub\RemindersStudyHub\bin\Debug\net8.0-windows\RemindersStudyHub.exe
+E:\Hafsa\NED\rem\RemindersStudyHub\RemindersStudyHub\bin\Debug\net8.0-windows\RemindersStudyHub.deps.json
+E:\Hafsa\NED\rem\RemindersStudyHub\RemindersStudyHub\bin\Debug\net8.0-windows\RemindersStudyHub.runtimeconfig.json
+E:\Hafsa\NED\rem\RemindersStudyHub\RemindersStudyHub\bin\Debug\net8.0-windows\RemindersStudyHub.dll
+E:\Hafsa\NED\rem\RemindersStudyHub\RemindersStudyHub\bin\Debug\net8.0-windows\RemindersStudyHub.pdb
+E:\Hafsa\NED\rem\RemindersStudyHub\RemindersStudyHub\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+E:\Hafsa\NED\rem\RemindersStudyHub\RemindersStudyHub\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\Hafsa\NED\rem\RemindersStudyHub\RemindersStudyHub\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\Hafsa\NED\rem\RemindersStudyHub\RemindersStudyHub\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+E:\Hafsa\NED\rem\RemindersStudyHub\RemindersStudyHub\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+E:\Hafsa\NED\rem\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.AdditReminder.resources
+E:\Hafsa\NED\rem\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.HomePage.resources
+E:\Hafsa\NED\rem\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.Notepad.resources
+E:\Hafsa\NED\rem\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.SearchPage.resources
+E:\Hafsa\NED\rem\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.StartPage.resources
+E:\Hafsa\NED\rem\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.ToDo.resources
+E:\Hafsa\NED\rem\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.ViewPage.resources
+E:\Hafsa\NED\rem\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.csproj.GenerateResource.cache
+E:\Hafsa\NED\rem\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hafsa\NED\rem\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.AssemblyInfoInputs.cache
+E:\Hafsa\NED\rem\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.AssemblyInfo.cs
+E:\Hafsa\NED\rem\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.csproj.CoreCompileInputs.cache
+E:\Hafsa\NED\rem\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\Reminder.1C1C6C6D.Up2Date
+E:\Hafsa\NED\rem\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.genruntimeconfig.cache
+E:\Hafsa\NED\rem\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\ref\RemindersStudyHub.dll
+E:\Hafsa\NED\rem\RemindersStudyHub\RemindersStudyHub\obj\Debug\net8.0-windows\RemindersStudyHub.GradeTracker.resources

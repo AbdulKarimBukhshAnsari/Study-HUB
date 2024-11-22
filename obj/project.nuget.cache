@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jRM6i85NQ2Y=",
+  "success": true,
+  "projectFilePath": "D:\\University Studies\\3rd_Semester\\DSA\\Study Hub\\StudyHub\\StudyHub.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tesla Laptops\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\Tesla Laptops\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University Studies\\3rd_Semester\\DSA\\Study Hub\\StudyHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F85419-CE0D-4A32-B4F4-8C4344686AED}|StudyHub.csproj|d:\\university studies\\3rd_semester\\dsa\\study hub\\studyhub\\gradetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F85419-CE0D-4A32-B4F4-8C4344686AED}|StudyHub.csproj|solutionrelative:gradetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F85419-CE0D-4A32-B4F4-8C4344686AED}|StudyHub.csproj|d:\\university studies\\3rd_semester\\dsa\\study hub\\studyhub\\searchpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F85419-CE0D-4A32-B4F4-8C4344686AED}|StudyHub.csproj|solutionrelative:searchpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F85419-CE0D-4A32-B4F4-8C4344686AED}|StudyHub.csproj|D:\\University Studies\\3rd_Semester\\DSA\\Study Hub\\StudyHub\\gradetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F85419-CE0D-4A32-B4F4-8C4344686AED}|StudyHub.csproj|solutionrelative:gradetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F85419-CE0D-4A32-B4F4-8C4344686AED}|StudyHub.csproj|d:\\university studies\\3rd_semester\\dsa\\study hub\\studyhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F85419-CE0D-4A32-B4F4-8C4344686AED}|StudyHub.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F85419-CE0D-4A32-B4F4-8C4344686AED}|StudyHub.csproj|d:\\university studies\\3rd_semester\\dsa\\study hub\\studyhub\\notepad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F85419-CE0D-4A32-B4F4-8C4344686AED}|StudyHub.csproj|solutionrelative:notepad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F85419-CE0D-4A32-B4F4-8C4344686AED}|StudyHub.csproj|D:\\University Studies\\3rd_Semester\\DSA\\Study Hub\\StudyHub\\notepad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F85419-CE0D-4A32-B4F4-8C4344686AED}|StudyHub.csproj|solutionrelative:notepad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F85419-CE0D-4A32-B4F4-8C4344686AED}|StudyHub.csproj|d:\\university studies\\3rd_semester\\dsa\\study hub\\studyhub\\viewpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F85419-CE0D-4A32-B4F4-8C4344686AED}|StudyHub.csproj|solutionrelative:viewpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F85419-CE0D-4A32-B4F4-8C4344686AED}|StudyHub.csproj|d:\\university studies\\3rd_semester\\dsa\\study hub\\studyhub\\startpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F85419-CE0D-4A32-B4F4-8C4344686AED}|StudyHub.csproj|solutionrelative:startpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F85419-CE0D-4A32-B4F4-8C4344686AED}|StudyHub.csproj|d:\\university studies\\3rd_semester\\dsa\\study hub\\studyhub\\addpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F85419-CE0D-4A32-B4F4-8C4344686AED}|StudyHub.csproj|solutionrelative:addpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GradeTracker.cs",
+              "DocumentMoniker": "D:\\University Studies\\3rd_Semester\\DSA\\Study Hub\\StudyHub\\GradeTracker.cs",
+              "RelativeDocumentMoniker": "GradeTracker.cs",
+              "ToolTip": "D:\\University Studies\\3rd_Semester\\DSA\\Study Hub\\StudyHub\\GradeTracker.cs",
+              "RelativeToolTip": "GradeTracker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:16:04.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GradeTracker.cs [Design]",
+              "DocumentMoniker": "D:\\University Studies\\3rd_Semester\\DSA\\Study Hub\\StudyHub\\GradeTracker.cs",
+              "RelativeDocumentMoniker": "GradeTracker.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\StudyHub\\GradeTracker.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:15:40.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Notepad.cs",
+              "DocumentMoniker": "D:\\University Studies\\3rd_Semester\\DSA\\Study Hub\\StudyHub\\Notepad.cs",
+              "RelativeDocumentMoniker": "Notepad.cs",
+              "ToolTip": "D:\\University Studies\\3rd_Semester\\DSA\\Study Hub\\StudyHub\\Notepad.cs",
+              "RelativeToolTip": "Notepad.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:04:02.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Notepad.cs [Design]",
+              "DocumentMoniker": "D:\\University Studies\\3rd_Semester\\DSA\\Study Hub\\StudyHub\\Notepad.cs",
+              "RelativeDocumentMoniker": "Notepad.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\StudyHub\\Notepad.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:03:48.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StartPage.cs",
+              "DocumentMoniker": "D:\\University Studies\\3rd_Semester\\DSA\\Study Hub\\StudyHub\\StartPage.cs",
+              "RelativeDocumentMoniker": "StartPage.cs",
+              "ToolTip": "D:\\University Studies\\3rd_Semester\\DSA\\Study Hub\\StudyHub\\StartPage.cs",
+              "RelativeToolTip": "StartPage.cs",
+              "ViewState": "AgIAAJkBAAAAAAAAAAAAAJ0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:29:32.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddPage.cs",
+              "DocumentMoniker": "D:\\University Studies\\3rd_Semester\\DSA\\Study Hub\\StudyHub\\AddPage.cs",
+              "RelativeDocumentMoniker": "AddPage.cs",
+              "ToolTip": "D:\\University Studies\\3rd_Semester\\DSA\\Study Hub\\StudyHub\\AddPage.cs",
+              "RelativeToolTip": "AddPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:12:45.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewPage.cs",
+              "DocumentMoniker": "D:\\University Studies\\3rd_Semester\\DSA\\Study Hub\\StudyHub\\ViewPage.cs",
+              "RelativeDocumentMoniker": "ViewPage.cs",
+              "ToolTip": "D:\\University Studies\\3rd_Semester\\DSA\\Study Hub\\StudyHub\\ViewPage.cs",
+              "RelativeToolTip": "ViewPage.cs",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAmwMkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:29:25.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchPage.cs",
+              "DocumentMoniker": "D:\\University Studies\\3rd_Semester\\DSA\\Study Hub\\StudyHub\\SearchPage.cs",
+              "RelativeDocumentMoniker": "SearchPage.cs",
+              "ToolTip": "D:\\University Studies\\3rd_Semester\\DSA\\Study Hub\\StudyHub\\SearchPage.cs",
+              "RelativeToolTip": "SearchPage.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvw8AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:29:16.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\University Studies\\3rd_Semester\\DSA\\Study Hub\\StudyHub\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\University Studies\\3rd_Semester\\DSA\\Study Hub\\StudyHub\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwAUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:18:50.75Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
